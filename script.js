@@ -27,7 +27,7 @@ function decodeHTML(html) {
 
 async function fetchQuestions() {
   const res = await fetch(
-    "https://opentdb.com/api.php?amount=5&category=18&difficulty=easy&type=multiple"
+    "https://opentdb.com/api.php?amount=10&category=18&difficulty=easy&type=multiple"
   );
 
   if (!res.ok) throw new Error("Network error");
