@@ -56,5 +56,11 @@ https://saurabh-js-quiz-app.netlify.app/
 ## GitHub Repository
 https://github.com/saurabh54e/js-Quiz-App
 
+
+👨‍💻 Author
+Saurabh Singh B.Tech CSE (AI & ML) — Web Development | UI/UX | Robotics
+
+⭐ If you like this project, consider giving it a star!
+
 ## Challenge Goal
 Building 30 JavaScript projects in 30 days to strengthen frontend fundamentals, improve architecture thinking, and build consistently in public.
