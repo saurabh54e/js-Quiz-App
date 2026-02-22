@@ -57,8 +57,9 @@ https://saurabh-js-quiz-app.netlify.app/
 https://github.com/saurabh54e/js-Quiz-App
 
 
-👨‍💻 Author
-Saurabh Singh B.Tech CSE (AI & ML) — Web Development | UI/UX | Robotics
+## Author 
+Saurabh Singh.
+B.Tech CSE (AI & ML) — Web Development | UI/UX | Robotics
 
 ⭐ If you like this project, consider giving it a star!
 
