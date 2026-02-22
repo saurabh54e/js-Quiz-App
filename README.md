@@ -4,7 +4,7 @@ Day 3 of my 30 Days JavaScript Challenge.
 
 An interactive quiz application built using Vanilla JavaScript that tests users with multiple-choice questions, tracks scores, and displays results.
 
-## 🚀 Features
+## Features
 
 - 📋 Multiple-choice questions
 - 👉 Next question navigation
@@ -15,7 +15,7 @@ An interactive quiz application built using Vanilla JavaScript that tests users 
 - 📱 Fully responsive design
 
 
-## 🧠 Architecture Approach
+## Architecture Approach
 
 The application uses a **state-driven approach.
 Quiz data is stored as an array of objects:
@@ -51,7 +51,7 @@ Conditional UI rendering
 Building restartable application logic
 
 ## Live Demo
-https://saurabh-js-quiz-app.netlify.app/
+https://saurabh54e.github.io/js-Quiz-App/
 
 ## GitHub Repository
 https://github.com/saurabh54e/js-Quiz-App
