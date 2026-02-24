@@ -51,10 +51,10 @@ Conditional UI rendering
 Building restartable application logic
 
 ## Live Demo
-https://saurabh54e.github.io/js-day03-quiz-app/
+https://saurabh54e.github.io/Js-Day03-Quiz-App/
 
 ## GitHub Repository
-https://github.com/saurabh54e/js-Quiz-App
+https://github.com/saurabh54e/Js-Day03-Quiz-App
 
 
 ## Author 
